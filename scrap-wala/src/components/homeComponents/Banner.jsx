@@ -1,4 +1,4 @@
-import img from "../assets/ruined-vehicles-russian-s-war-ukraine.jpg";
+import img from "../../assets/ruined-vehicles-russian-s-war-ukraine.jpg";
 
 const Banner = () => {
   return (
